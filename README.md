@@ -12,8 +12,6 @@ I build end-to-end web applications and enjoy understanding the engineering behi
 ![Java](https://img.shields.io/badge/Java-DSA-0B1220?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Cloud & AI](https://img.shields.io/badge/Cloud_%26_GenAI-Exploring-0B1220?style=for-the-badge)
 
-</div>
-
 ---
 
 ## 👨‍💻 About Me
@@ -22,28 +20,30 @@ I'm a developer focused on **full-stack engineering with the MERN stack**, with 
 
 I like going beyond getting a feature to work: I want to understand **how components communicate, how data flows through a system, and how an application can remain reliable as it grows**.
 
-- ⚙️ **Build:** Full-stack web applications, backend APIs, and real-time functionality.
-- 🧠 **Problem-solving:** Data Structures & Algorithms using **Java**.
-- ☁️ **Learning:** AWS, cloud deployment, scalable backend design, and Generative AI integration.
-- 🎯 **Approach:** Learn the fundamentals, build something practical, debug it, and improve it.
+<p align="center">
+  ⚙️ <strong>Build:</strong> Full-stack web applications, backend APIs, and real-time functionality.<br>
+  🧠 <strong>Problem-solving:</strong> Data Structures &amp; Algorithms using <strong>Java</strong>.<br>
+  ☁️ <strong>Learning:</strong> AWS, cloud deployment, scalable backend design, and Generative AI integration.<br>
+  🎯 <strong>Approach:</strong> Learn the fundamentals, build something practical, debug it, and improve it.
+</p>
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML5, CSS3, JavaScript, React" />
 </p>
 
 **Backend & Database**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Node.js, Express.js, MongoDB" />
 </p>
 
 **Programming & Developer Tools**
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" alt="Java, Git, GitHub, Postman, VS Code" />
 </p>
 
@@ -59,30 +59,39 @@ I like going beyond getting a feature to work: I want to understand **how compon
 
 These are the areas I find particularly interesting in modern web development:
 
-- **Backend architecture:** API design, request handling, authentication, and data modeling.
-- **Real-time applications:** Event-driven communication, Socket.IO, WebRTC signaling, and connection lifecycle handling.
-- **Application reliability:** Debugging, predictable state, error handling, and maintainable code.
-- **Performance & scalability:** Learning how caching, reverse proxies, and deployment architecture affect real systems.
+<p align="center">
+  <strong>Backend architecture:</strong> API design, request handling, authentication, and data modeling.<br>
+  <strong>Real-time applications:</strong> Event-driven communication, Socket.IO, WebRTC signaling, and connection lifecycle handling.<br>
+  <strong>Application reliability:</strong> Debugging, predictable state, error handling, and maintainable code.<br>
+  <strong>Performance &amp; scalability:</strong> Learning how caching, reverse proxies, and deployment architecture affect real systems.
+</p>
 
 ## 📈 Expanding My Toolkit
 
 I'm familiar with the purpose and fundamentals of some tools that I haven't yet put into a full project, and I'm working toward hands-on experience with them.
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=redis,docker,aws" alt="Redis, Docker, AWS" />
 </p>
 
-| Technology | What I'm exploring |
-| :-- | :-- |
-| **Redis** | Caching, in-memory storage, and Pub/Sub concepts |
-| **Docker** | Containerization and consistent development environments |
-| **AWS** | Cloud deployment and application infrastructure |
-| **Generative AI** | LLM-powered features and AI integrations in web applications |
+<table align="center">
+  <thead>
+    <tr><th align="center">Technology</th><th align="center">What I'm exploring</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="center"><strong>Redis</strong></td><td align="center">Caching, in-memory storage, and Pub/Sub concepts</td></tr>
+    <tr><td align="center"><strong>Docker</strong></td><td align="center">Containerization and consistent development environments</td></tr>
+    <tr><td align="center"><strong>AWS</strong></td><td align="center">Cloud deployment and application infrastructure</td></tr>
+    <tr><td align="center"><strong>Generative AI</strong></td><td align="center">LLM-powered features and AI integrations in web applications</td></tr>
+  </tbody>
+</table>
 
-> I keep technologies I've used in projects separate from those I'm currently learning.
+*I keep technologies I've used in projects separate from those I'm currently learning.*
 
 ## 🤝 Let's Connect
 
 I'm interested in **full-stack development, backend engineering, cloud technologies, and practical AI applications** — and always open to exchanging ideas with other developers.
 
 **Build. Learn. Improve. Repeat.**
+
+</div>
