@@ -47,13 +47,16 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Node.js, Express.js, MongoDB, and Redis" />
 </p>
 
-![Mongoose](https://img.shields.io/badge/Mongoose-Data_modeling-880000?style=flat-square)
-![BullMQ](https://img.shields.io/badge/BullMQ-Background_jobs-B83C3C?style=flat-square)
+<p align="center">
+  <a href="https://mongoosejs.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/taskforcesh/bullmq"><img height="30" src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" alt="BullMQ" /></a>
+</p>
 
 **Programming & Developer Tools**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" alt="Java, Git, GitHub, Postman, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode,npm" alt="Java, Git, GitHub, Postman, VS Code, and npm" />
 </p>
 
 **APIs, Authentication & Real-Time Systems**
@@ -66,17 +69,37 @@
 
 **Security & Code Quality**
 
-[![Semgrep](https://img.shields.io/badge/Semgrep-Code_security-167A65?style=flat-square)](https://github.com/semgrep/semgrep)
-[![ESLint](https://img.shields.io/badge/ESLint-Code_quality-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
-[![Gitleaks](https://img.shields.io/badge/Gitleaks-Exposed_secrets-983D45?style=flat-square)](https://github.com/gitleaks/gitleaks)
-[![OSV-Scanner](https://img.shields.io/badge/OSV--Scanner-Vulnerable_dependencies-365782?style=flat-square)](https://github.com/google/osv-scanner)
+<p align="center">
+  <a href="https://github.com/semgrep/semgrep">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semgrep/semgrep/develop/images/semgrep-logo-dark.svg">
+      <img height="28" src="https://raw.githubusercontent.com/semgrep/semgrep/develop/images/semgrep-logo-light.svg" alt="Semgrep" />
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://eslint.org/"><img height="28" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gitleaks/gitleaks"><img height="28" src="https://github.com/gitleaks.png?size=64" alt="" /> Gitleaks</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/google/osv-scanner">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-full-logo-darkmode.svg">
+      <img height="28" src="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-full-logo-lightmode.svg" alt="OSV-Scanner" />
+    </picture>
+  </a>
+</p>
 
 **AI, GitHub Integrations & Deployment**
 
-![Groq API](https://img.shields.io/badge/Groq_API-243247?style=flat-square)
-![GitHub Apps](https://img.shields.io/badge/GitHub_Apps-243247?style=flat-square&logo=github&logoColor=white)
-![Octokit](https://img.shields.io/badge/Octokit-243247?style=flat-square)
-![Render](https://img.shields.io/badge/Render-243247?style=flat-square&logo=render&logoColor=white)
+<p align="center">
+  <a href="https://console.groq.com/"><img height="24" src="https://github.com/groq.png?size=64" alt="" /> Groq API</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/features/apps"><img height="24" src="https://img.shields.io/badge/GitHub_Apps-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub Apps" /></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/octokit"><img height="24" src="https://github.com/octokit.png?size=64" alt="" /> Octokit</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://render.com/"><img height="24" src="https://img.shields.io/badge/Render-24292F?style=flat-square&logo=render&logoColor=white" alt="Render" /></a>
+</p>
 
 ## ⚡ Engineering Interests
 
@@ -102,18 +125,33 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=redis,docker,aws" alt="Redis, Docker, AWS" />
+  <img src="https://skillicons.dev/icons?i=redis,docker,aws" alt="Redis, Docker, and AWS" />
 </p>
 
 <table align="center">
   <thead>
-    <tr><th align="left">Technology</th><th align="left">What I'm exploring</th></tr>
+    <tr>
+      <th align="left">Technology</th>
+      <th align="left">What I'm exploring</th>
+    </tr>
   </thead>
   <tbody>
-    <tr><td align="left"><strong>Redis</strong></td><td align="left">Caching, in-memory storage, and Pub/Sub concepts</td></tr>
-    <tr><td align="left"><strong>Docker</strong></td><td align="left">Containerization and consistent development environments</td></tr>
-    <tr><td align="left"><strong>AWS</strong></td><td align="left">Cloud deployment and application infrastructure</td></tr>
-    <tr><td align="left"><strong>Generative AI</strong></td><td align="left">LLM-powered features and AI integrations in web applications</td></tr>
+    <tr>
+      <td align="left"><strong>Redis</strong></td>
+      <td align="left">Caching, in-memory storage, and Pub/Sub concepts</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Docker</strong></td>
+      <td align="left">Containerization and consistent development environments</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>AWS</strong></td>
+      <td align="left">Cloud deployment and application infrastructure</td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Generative AI</strong></td>
+      <td align="left">LLM-powered features and AI integrations in web applications</td>
+    </tr>
   </tbody>
 </table>
 
