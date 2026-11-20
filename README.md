@@ -48,9 +48,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mongoosejs.com/"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" /></a>
+  <a href="https://mongoosejs.com/" title="Mongoose"><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" alt="Mongoose" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/taskforcesh/bullmq"><img height="30" src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" alt="BullMQ" /></a>
+  <a href="https://github.com/taskforcesh/bullmq" title="BullMQ"><img height="30" src="https://user-images.githubusercontent.com/95200/143832033-32e868df-f3b0-4251-97fb-c64809a43d36.png" alt="BullMQ" /></a>
 </p>
 
 **Programming & Developer Tools**
@@ -67,38 +67,33 @@
 ![WebSockets](https://img.shields.io/badge/WebSockets-243247?style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-243247?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-**Security & Code Quality**
+<h3 align="center">Security &amp; Code Quality</h3>
 
 <p align="center">
-  <a href="https://github.com/semgrep/semgrep">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/semgrep/semgrep/develop/images/semgrep-logo-dark.svg">
-      <img height="28" src="https://raw.githubusercontent.com/semgrep/semgrep/develop/images/semgrep-logo-light.svg" alt="Semgrep" />
-    </picture>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://eslint.org/"><img height="28" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/gitleaks/gitleaks"><img height="28" src="https://github.com/gitleaks.png?size=64" alt="" /> Gitleaks</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/google/osv-scanner">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-full-logo-darkmode.svg">
-      <img height="28" src="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-full-logo-lightmode.svg" alt="OSV-Scanner" />
-    </picture>
-  </a>
+  <a href="https://github.com/semgrep/semgrep" title="Semgrep"><img src="https://github.com/semgrep.png?size=96" width="40" height="40" alt="Semgrep" /></a>
+  &nbsp;&nbsp;
+  <a href="https://eslint.org/" title="ESLint"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="40" height="40" alt="ESLint" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/gitleaks/gitleaks" title="Gitleaks"><img src="https://github.com/gitleaks.png?size=96" width="40" height="40" alt="Gitleaks" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/google/osv-scanner" title="OSV-Scanner"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-icon-darkmode.svg">
+    <img src="https://raw.githubusercontent.com/google/osv-scanner/main/docs/images/osv-scanner-icon-lightmode.svg" width="40" height="40" alt="OSV-Scanner" />
+  </picture></a>
 </p>
 
-**AI, GitHub Integrations & Deployment**
+<br>
+
+<h3 align="center">AI, GitHub Integrations &amp; Deployment</h3>
 
 <p align="center">
-  <a href="https://console.groq.com/"><img height="24" src="https://github.com/groq.png?size=64" alt="" /> Groq API</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/features/apps"><img height="24" src="https://img.shields.io/badge/GitHub_Apps-24292F?style=flat-square&logo=github&logoColor=white" alt="GitHub Apps" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/octokit"><img height="24" src="https://github.com/octokit.png?size=64" alt="" /> Octokit</a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://render.com/"><img height="24" src="https://img.shields.io/badge/Render-24292F?style=flat-square&logo=render&logoColor=white" alt="Render" /></a>
+  <a href="https://console.groq.com/" title="Groq API"><img src="https://github.com/groq.png?size=96" width="40" height="40" alt="Groq API" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/features/apps" title="GitHub Apps"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub Apps" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/octokit" title="Octokit"><img src="https://github.com/octokit.png?size=96" width="40" height="40" alt="Octokit" /></a>
+  &nbsp;&nbsp;
+  <a href="https://render.com/" title="Render"><img src="https://github.com/renderinc.png?size=96" width="40" height="40" alt="Render" /></a>
 </p>
 
 ## ⚡ Engineering Interests
@@ -164,5 +159,15 @@
 </p>
 
 **Build. Learn. Improve. Repeat.**
+
+<h3 align="center">Contact Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kanak-chauhan-dev/" title="Connect on LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="Connect with Kanak on LinkedIn" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/kanakchauhan9822/" title="Visit Instagram"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Visit Kanak on Instagram" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:kanakchauhan9822@gmail.com" title="Send me an email"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email Kanak" /></a>
+</p>
 
 </div>
