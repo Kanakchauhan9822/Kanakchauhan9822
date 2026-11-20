@@ -2,74 +2,74 @@
 
 # Hey, I'm Kanak Chauhan 👋
 
-### Full-Stack Developer | MERN Stack | Backend & Real-Time Applications
+### Full-Stack Developer | MERN Stack | Backend & Real-Time Web Applications
 
 **B.Tech in Computer Science & Engineering (AI & ML) · MIET**
 
-I build web applications from the interface down to the database. My recent projects include a collaborative study platform and a GitHub review tool that helps developers decide what to fix and what to test before they ship.
+<p align="justify">
+  I build end-to-end web applications and enjoy understanding the engineering behind them — from interactive user interfaces and APIs to authentication, databases, and real-time communication.
+</p>
 
 ![Full Stack](https://img.shields.io/badge/Full--Stack-Development-0B1220?style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-DSA-0B1220?style=for-the-badge&logo=openjdk&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-Engineering-0B1220?style=for-the-badge)
+![Cloud & AI](https://img.shields.io/badge/Cloud_%26_GenAI-Exploring-0B1220?style=for-the-badge)
 
-</div>
+---
 
 ## 👨‍💻 About Me
 
-I work primarily with **React, Node.js, Express, and MongoDB**, and I practice data structures and algorithms in **Java**. I enjoy the parts of a project that only show up once people start using it. What should a late joiner see in a live study room? What happens if someone clicks a review button twice? How does a developer find the right line of code from a security warning?
+<p align="justify">
+  I'm a developer focused on <strong>full-stack engineering with the MERN stack</strong>, with hands-on experience building <strong>REST APIs, authentication flows, database-backed applications, and real-time features</strong>.
+</p>
 
-Those questions shaped the two projects below.
+<p align="justify">
+  I like going beyond getting a feature to work: I want to understand <strong>how components communicate, how data flows through a system, and how an application can remain reliable as it grows</strong>.
+</p>
 
-## 🚀 Featured Projects
-
-### [LaunchGuard](https://github.com/Kanakchauhan9822/LaunchGuard) · GitHub Code Review Platform
-
-A developer can connect a GitHub repository, describe what the application does, and request a review of the entire project or its latest changes.
-
-- Integrated **Gitleaks, OSV-Scanner, Semgrep, and ESLint** to check for exposed secrets, vulnerable dependencies, security issues, and code quality problems.
-- Built a findings dashboard that groups repeated issues, shows affected files and lines, and gives developers plain-English explanations and steps to fix them.
-- Used **Redis and BullMQ** to queue reviews and process them in the background. Review history lets users revisit the results for a particular commit.
-- Integrated the **Groq API** to suggest coding improvements and generate step-by-step manual checks based on the project description and source code. Users can try each check in their application and mark it as checked.
-
-### [PeerSpace](https://github.com/Kanakchauhan9822/PeerSpace) · Live Collaborative Study Platform
-
-A full-stack study platform where students can join a private room, talk over video, share notes, and follow the same Pomodoro timer. Deployed on **Render**.
-
-- Built real-time chat and participant presence with **Socket.IO**, and video calling with **WebRTC**.
-- Added a collaborative Markdown editor and synchronized room state so late joiners receive the chat history, participant list, and current timer.
-- Tested messaging with **100 concurrent authenticated clients** in a local benchmark. All **20,000 expected messages** were delivered, with **9.45 ms average delivery latency**.
+<p align="justify">
+  ⚙️ <strong>Build:</strong> Full-stack web applications, backend APIs, and real-time functionality.<br>
+  🧠 <strong>Problem-solving:</strong> Data Structures &amp; Algorithms using <strong>Java</strong>.<br>
+  ☁️ <strong>Learning:</strong> AWS, cloud deployment, scalable backend design, and Generative AI integration.<br>
+  🎯 <strong>Approach:</strong> Learn the fundamentals, build something practical, debug it, and improve it.
+</p>
 
 ## 🛠️ Tech Stack
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="HTML, CSS, JavaScript, React, Tailwind CSS, and Vite" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" alt="HTML5, CSS3, JavaScript, React, Tailwind CSS, and Vite" />
 </p>
 
-**Backend, Databases & Background Jobs**
+**Backend & Database**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Node.js, Express, MongoDB, and Redis" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis" alt="Node.js, Express.js, MongoDB, and Redis" />
 </p>
 
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square)
-![BullMQ](https://img.shields.io/badge/BullMQ-CC3333?style=flat-square)
+![Mongoose](https://img.shields.io/badge/Mongoose-Data_modeling-880000?style=flat-square)
+![BullMQ](https://img.shields.io/badge/BullMQ-Background_jobs-B83C3C?style=flat-square)
+
+**Programming & Developer Tools**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" alt="Java, Git, GitHub, Postman, and VS Code" />
+</p>
 
 **APIs, Authentication & Real-Time Systems**
 
 ![REST APIs](https://img.shields.io/badge/REST_APIs-243247?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-243247?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-243247?style=flat-square&logo=socketdotio&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-243247?style=flat-square&logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-243247?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-243247?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 **Security & Code Quality**
 
-[![Gitleaks](https://img.shields.io/badge/Gitleaks-Exposed_secrets-983D45?style=flat-square)](https://github.com/gitleaks/gitleaks)
-[![OSV-Scanner](https://img.shields.io/badge/OSV--Scanner-Vulnerable_dependencies-365782?style=flat-square)](https://github.com/google/osv-scanner)
 [![Semgrep](https://img.shields.io/badge/Semgrep-Code_security-167A65?style=flat-square)](https://github.com/semgrep/semgrep)
 [![ESLint](https://img.shields.io/badge/ESLint-Code_quality-4B32C3?style=flat-square&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Gitleaks](https://img.shields.io/badge/Gitleaks-Exposed_secrets-983D45?style=flat-square)](https://github.com/gitleaks/gitleaks)
+[![OSV-Scanner](https://img.shields.io/badge/OSV--Scanner-Vulnerable_dependencies-365782?style=flat-square)](https://github.com/google/osv-scanner)
 
 **AI, GitHub Integrations & Deployment**
 
@@ -78,28 +78,53 @@ A full-stack study platform where students can join a private room, talk over vi
 ![Octokit](https://img.shields.io/badge/Octokit-243247?style=flat-square)
 ![Render](https://img.shields.io/badge/Render-243247?style=flat-square&logo=render&logoColor=white)
 
-**Programming & Developer Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,git,github,postman,vscode" alt="Java, Git, GitHub, Postman, and VS Code" />
-</p>
-
 ## ⚡ Engineering Interests
 
-- **Backend reliability.** Handling retries, duplicate requests, expired sessions, and jobs that stop halfway through.
-- **Real-time systems.** Keeping room state consistent when users join late, disconnect, or reconnect.
-- **Practical AI.** Giving a model enough project context to produce a useful answer and making that answer easy for a developer to act on.
+<p align="justify">
+  These are the areas I find particularly interesting in modern web development:
+</p>
+
+<p align="justify">
+  <strong>Backend architecture:</strong> API design, request handling, authentication, and data modeling.<br>
+  <strong>Real-time applications:</strong> Event-driven communication, Socket.IO, WebRTC signaling, and connection lifecycle handling.<br>
+  <strong>Application reliability:</strong> Debugging, predictable state, error handling, and maintainable code.<br>
+  <strong>Performance &amp; scalability:</strong> Learning how caching, reverse proxies, and deployment architecture affect real systems.
+</p>
 
 ## 📈 Expanding My Toolkit
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws" alt="Docker and AWS" />
+<p align="justify">
+  I'm familiar with the purpose and fundamentals of some tools that I haven't yet put into a full project, and I'm working toward hands-on experience with them.
 </p>
 
-I'm learning how to package applications with **Docker** and deploy them on **AWS**. After using Redis and BullMQ in LaunchGuard, I want to explore how to scale background workers and measure when adding a worker actually improves review time.
+<p align="justify">
+  I've used Redis with BullMQ for background jobs and the Groq API for AI-generated recommendations and manual checks. I'm continuing to explore other uses of both technologies alongside Docker and AWS.
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redis,docker,aws" alt="Redis, Docker, AWS" />
+</p>
+
+<table align="center">
+  <thead>
+    <tr><th align="left">Technology</th><th align="left">What I'm exploring</th></tr>
+  </thead>
+  <tbody>
+    <tr><td align="left"><strong>Redis</strong></td><td align="left">Caching, in-memory storage, and Pub/Sub concepts</td></tr>
+    <tr><td align="left"><strong>Docker</strong></td><td align="left">Containerization and consistent development environments</td></tr>
+    <tr><td align="left"><strong>AWS</strong></td><td align="left">Cloud deployment and application infrastructure</td></tr>
+    <tr><td align="left"><strong>Generative AI</strong></td><td align="left">LLM-powered features and AI integrations in web applications</td></tr>
+  </tbody>
+</table>
+
+*I keep technologies I've used in projects separate from those I'm currently learning.*
 
 ## 🤝 Let's Connect
 
-I'm interested in full-stack development, backend engineering, and real-time applications. If you're working on something similar, I'd be happy to compare approaches.
+<p align="justify">
+  I'm interested in <strong>full-stack development, backend engineering, cloud technologies, and practical AI applications</strong> — and always open to exchanging ideas with other developers.
+</p>
 
-[Find me on GitHub →](https://github.com/Kanakchauhan9822)
+**Build. Learn. Improve. Repeat.**
+
+</div>
